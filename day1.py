@@ -16,4 +16,4 @@ print(int(median(L)))
 print(int(median(arr)))
 print(int(median(U)))
 
-//four quartiles with upper and lower ele 
+#four quartiles with upper and lower ele 

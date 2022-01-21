@@ -20,4 +20,4 @@ else:
 ir = round(float(q3-q1), 1) //iqt
 print(ir)
 
-//iqt
+#iqt

@@ -9,4 +9,4 @@ if len(numeratorele) == len(denomele):
         cal=numeratorele[i]*denomele[i]
         resnumerator+=cal
 print(round(resnumerator/sum(denomele),1))
-//weighted mean
+#weighted mean
